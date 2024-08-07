@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     print("hello World")
+
+    print("Hello Second Time")
